@@ -1,0 +1,14 @@
+D:\Training\Assignments\Factorial\Factorial\bin\Debug\net8.0\Factorial.exe
+D:\Training\Assignments\Factorial\Factorial\bin\Debug\net8.0\Factorial.deps.json
+D:\Training\Assignments\Factorial\Factorial\bin\Debug\net8.0\Factorial.runtimeconfig.json
+D:\Training\Assignments\Factorial\Factorial\bin\Debug\net8.0\Factorial.dll
+D:\Training\Assignments\Factorial\Factorial\bin\Debug\net8.0\Factorial.pdb
+D:\Training\Assignments\Factorial\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Assignments\Factorial\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+D:\Training\Assignments\Factorial\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+D:\Training\Assignments\Factorial\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+D:\Training\Assignments\Factorial\Factorial\obj\Debug\net8.0\Factorial.dll
+D:\Training\Assignments\Factorial\Factorial\obj\Debug\net8.0\refint\Factorial.dll
+D:\Training\Assignments\Factorial\Factorial\obj\Debug\net8.0\Factorial.pdb
+D:\Training\Assignments\Factorial\Factorial\obj\Debug\net8.0\Factorial.genruntimeconfig.cache
+D:\Training\Assignments\Factorial\Factorial\obj\Debug\net8.0\ref\Factorial.dll
